@@ -1,6 +1,6 @@
 # 🤘 IttyKeys! Whom?
 
-**Backend Developer | Noise (Music-ish) Producer**
+**Python hater | Backend Wrangler | Noise (Music-ish) Producer**
 
 Always taking on new challenges, as long as it's not Python. You'll find me in my studio making noise or dealing with my headaches (IT projects).
 
