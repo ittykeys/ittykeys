@@ -11,7 +11,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 - **Languages:** Swedish, English, Perl, C, PHP, Java and more (really anything except Python)
 - **DevOps:** Automation, CI/CD, network and other infrastructure that needs wrangling
 - **Stack:** Whatever I currently feel is the least bloated
-- **For noise:** FL Studio since 1999, sometimes Ardour.
+- **For noise:** FL Studio since 1999, sometimes Ardour
 
 ---
 
@@ -35,13 +35,13 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 ## Hard truths
 
-- I have a very soft spot for terrible movies and low-stakes costume-drama series.
+- I have a very soft spot for terrible movies and low-stakes costume-drama series
   (I eat up anything Julian Fellows writes)
-- If there's a weird shell script or an insane hack to be made, I'm probably on it.
-- **Python? Not only the world’s worst language but also my sworn nemesis.**  
+- If there's a weird shell script or an insane hack to be made, I'm probably on it
+- **Python? Not only the world’s worst language but also my sworn nemesis**  
   I like snakes though :)
-- When I'm not at **The** keyboard, I'm at another keyboard producing noise to my neighbors obvious delight.
+- When I'm not at **The** keyboard, I'm at another keyboard producing noise to my neighbors obvious delight
 
 ---
 
-_Thanks for stopping your browsing for a bit. Reach out if you want to talk costume drama, noise production or share a meme._
+_Thanks for stopping your browsing for a bit; Reach out if you want to talk costume drama, noise production or share a meme_
