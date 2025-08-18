@@ -17,7 +17,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 ## (Fun) Stuff
 
-- [dns-toggle](https://github.com/ittykeys/dns-toggle): A tool to make DNS server switching quick.
+- [dns-toggle](https://github.com/ittykeys/dns-toggle): A tool to make DNS server switching quick
 - [xbmcremote2](https://github.com/ittykeys/xbmcremote2): Because why use the new when you can use the old?
 - [swiftsites.fyi](https://github.com/ittykeys/swiftsites.fyi): Because the modern web is bloated and slow
 - [skaneresa.se](https://github.com/ittykeys/skaneresa.se): Public transport is bad enough, let's at least make it quick to search journeys
