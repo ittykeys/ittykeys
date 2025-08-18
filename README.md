@@ -8,7 +8,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 ## (Tool) Box
 
-- **Languages:** Swedish, English, Perl, C, PHP, Bash and more (really anything except Python)
+- **Languages:** Swedish, English, Perl, C, PHP, Java and more (really anything except Python)
 - **DevOps:** Automation, CI/CD, network and other infrastructure that needs wrangling
 - **Stack:** Whatever I currently feel is the least bloated
 - **For noise:** FL Studio since 1999, sometimes Ardour.
