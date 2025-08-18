@@ -24,7 +24,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 ---
 
-## Non-404 Me
+## Non-404 me
 
 - [ittykeys.com](https://ittykeys.com)
 - [LinkedIn](https://www.linkedin.com/in/pidde1/)
