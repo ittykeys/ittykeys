@@ -36,7 +36,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 ## Hard truths
 
 - I have a very soft spot for terrible movies and low-stakes costume-drama series
-  (I eat up anything Julian Fellows writes)
+  (I gobble up anything Julian Fellows writes)
 - If there's a weird shell script or an insane hack to be made, I'm probably on it
 - **Python? Not only the world’s worst language but also my sworn nemesis**  
   I like snakes though :)
