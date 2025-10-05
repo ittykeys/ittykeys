@@ -38,7 +38,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 - I have a very soft spot for terrible movies and low-stakes costume-drama series
   (I gobble up anything Julian Fellows writes)
 - If there's a weird shell script or an insane hack to be made, I'm probably on it
-- **Python? Not only the world’s worst language but also my sworn nemesis**  
+- Python is ot only the world’s worst language but also my sworn enemy
   I like snakes though :)
 - When I'm not at **The** keyboard, I'm at another keyboard producing noise to my neighbors obvious delight
 
