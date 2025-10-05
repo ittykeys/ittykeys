@@ -17,10 +17,10 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 ## (Fun) Stuff
 
-- [dns-toggle](https://github.com/ittykeys/dns-toggle): A tool to make DNS server switching quick
+- [dns-toggle](https://github.com/ittykeys/dns-toggle): A silly tool to make DNS server switching quick
 - [xbmcremote2](https://github.com/ittykeys/xbmcremote2): Because why use the new when you can use the old?
 - [swiftsites.fyi](https://github.com/ittykeys/swiftsites.fyi): Because the modern web is bloated and slow
-- [skaneresa.se](https://github.com/ittykeys/skaneresa.se): Public transport is bad enough, let's at least make it quick to search journeys
+- [skaneresa.se](https://github.com/ittykeys/skaneresa.se): Public transport is bad enough, let's make it worse
 
 ---
 
@@ -37,7 +37,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 - I have a very soft spot for terrible movies and low-stakes costume-drama series
   (I gobble up anything Julian Fellows writes)
-- Python is ot only the world’s worst language but also my sworn enemy (I like snakes though :))
+- Python is not only the world’s worst language but also my sworn enemy (I like snakes though :))
 - When I'm not at **The** keyboard, I'm at another keyboard producing noise to my neighbors obvious delight
 
 ---
