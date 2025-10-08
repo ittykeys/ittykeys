@@ -1,4 +1,4 @@
-# 🤘 IttyKeys! Whom?
+# 🤘 IttyKeys! Who?
 
 **Attention deficit Python hater | Autistic backend wrangler | Noise (Music-ish) Producer**
 
