@@ -1,14 +1,14 @@
 # 🤘 IttyKeys! Who?
 
-**Attention deficit Python hater | Autistic backend wrangler | Noise (Music-ish) Producer**
+**Attention deficit Python hater | Autistic backend wrangler | Noise (music-ish) producer**
 
-Always taking on new challenges, as long as it's not Python. You'll find me in my studio making noise or dealing with my headaches (IT projects).
+Always taking on new challenges, as long as it's not Python. You'll find me in my studio making noise or dealing with my headaches (projects).
 
 ---
 
 ## (Tool) Box
 
-- **Languages:** Swedish, English, Perl, C, PHP, Java and more (really anything except Python)
+- **Languages:** Swedish, English, Perl, C, PHP, Java, JavaScript and more (really anything except Python)
 - **DevOps:** Automation, CI/CD, network and other infrastructure that needs wrangling
 - **Stack:** Whatever I currently feel is the least bloated
 - **For noise:** FL Studio since 1999, sometimes Ardour
@@ -33,7 +33,7 @@ Always taking on new challenges, as long as it's not Python. You'll find me in m
 
 ---
 
-## Hard truths
+## Hard facts
 
 - I have a very soft spot for terrible movies and low-stakes costume-drama series
   (I gobble up anything Julian Fellows writes)
